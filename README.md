@@ -1,10 +1,10 @@
 CA3: README
 ==============
 
-Find detailed links to each CA3 section here:
+This class assignment was divided into 3 sections:
 
-[Part1](https://bitbucket.org/manel_rga/devops-20-21-1201770/src/master/CA3/Part1/README.md)
+[Part1 - VirtualBox](https://github.com/manel-rga/learning-virtualization/blob/main/Part1/README.md)
 
-[Part2](https://bitbucket.org/manel_rga/devops-20-21-1201770/src/master/CA3/Part2/README.md)
+[Part2 - Vagrant](https://github.com/manel-rga/learning-virtualization/blob/main/Part2/README.md)
 
-[Alternative](https://bitbucket.org/manel_rga/devops-20-21-1201770/src/master/CA3/HyperV/README.md)
+[Alternative - HyperV](https://github.com/manel-rga/learning-virtualization/blob/main/Alternative/README.md)
